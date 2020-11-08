@@ -1,0 +1,17 @@
+.acc-option-popover{
+
+    padding: 10px 0px;
+    width: 100%;
+    border-bottom: 2px solid #eee;
+    text-align: center;
+    cursor: pointer;
+
+}
+
+.acc-option-popover:hover{
+    background-color: #eee;
+}
+
+.acc-option-popover:last-child {
+    border-bottom: none;
+  }

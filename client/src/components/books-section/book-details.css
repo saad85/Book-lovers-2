@@ -1,0 +1,11 @@
+.book-details-container{
+    background-color: #f7f7f7;
+    padding: 10px;
+    height: 60vh;
+}
+
+.book-details{
+    background-color: white;
+    height: 100%;
+    
+}
